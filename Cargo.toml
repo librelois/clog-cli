@@ -16,7 +16,7 @@ name = "clog"
 semver = "~0.6.0"
 clap = "~2.21.1"
 time = "~0.1.32"
-clog = "~0.9.1"
+clog = { git = "https://github.com/librelois/clog-lib" }
 
 [dependencies.ansi_term]
 version = "~0.9.0"
